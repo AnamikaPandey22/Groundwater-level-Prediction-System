@@ -1,6 +1,8 @@
 # NeerAI – Groundwater Prediction and Awareness System
 
-NeerAI is a student project focused on groundwater level prediction and awareness using historical data from the Gandak River Basin.
+NeerAI is a data-driven groundwater prediction and awareness system developed to analyze historical groundwater trends and forecast future groundwater levels in the Gandak River Basin.
+
+The project combines time-series forecasting, data visualization, and an interactive Flask-based interface to make groundwater insights easier to understand and use. Along with prediction capabilities, NeerAI provides historical trend analysis and water conservation information to promote awareness of sustainable water usage.
 
 ## Features
 - District-wise groundwater level prediction using Facebook Prophet
