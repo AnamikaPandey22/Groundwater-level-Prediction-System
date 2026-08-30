@@ -270,4 +270,4 @@ NeerAI is an **academic/student project** developed for educational and awarenes
 
 ## 📜 License
 
-This project was developed for **academic and educational purposes**. Add an appropriate open-source license such as **MIT** if you intend to make the project publicly reusable.
+This project was developed for **academic and educational purposes**.
