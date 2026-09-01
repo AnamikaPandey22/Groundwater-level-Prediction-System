@@ -6,7 +6,7 @@ The project combines **time-series forecasting, data visualization, and an inter
 
 ---
 
-## ✨ Features
+## ✨ Features -
 
 * 📊 **District-wise Groundwater Prediction**
 
