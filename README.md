@@ -34,7 +34,7 @@ The project combines **time-series forecasting, data visualization, and an inter
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack -
 
 | Technology           | Purpose                                       |
 | -------------------- | --------------------------------------------- |
