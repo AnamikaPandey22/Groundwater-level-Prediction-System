@@ -108,8 +108,8 @@ Prophet is particularly useful for time-series forecasting because it can captur
 The system performs forecasting on a **district-wise basis**, allowing groundwater conditions to be analyzed at a more localized level.
 
 ---
-
-## 📈 Visualization
+ 
+## 📈 Visualization -
 
 **Matplotlib** is used to generate visual representations of groundwater data, including:
 
