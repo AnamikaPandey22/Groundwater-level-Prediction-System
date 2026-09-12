@@ -94,7 +94,7 @@ Water Conservation Awareness
 
 ---
 
-## 📊 Prediction Module
+## 📊 Prediction Module -
 
 The prediction module uses **Facebook Prophet** to model historical groundwater-level data and generate future forecasts.
 
