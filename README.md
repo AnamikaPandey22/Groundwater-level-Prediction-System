@@ -159,7 +159,7 @@ The major objectives of NeerAI are:
 
 ---
 
-## 👩‍💻 My Contribution
+## 👩‍💻 My Contribution -
 
 This project was developed as a **collaborative student project**.
 
